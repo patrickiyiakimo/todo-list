@@ -1,0 +1,350 @@
+[
+  {
+    "id": 1,
+    "title": "My Daily Todos",
+    "content": "Today, I plan to complete my frontend project and review a few PRs.",
+    "created_at": "2024-08-15T08:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Todo for Tomorrow",
+    "content": "Tomorrow, I want to focus on learning about Node.js streams.",
+    "created_at": "2024-08-14T12:30:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Weekend Tasks",
+    "content": "This weekend, I want to work on cleaning up my codebase and reviewing project milestones.",
+    "created_at": "2024-08-13T09:10:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Next Week Plans",
+    "content": "Next week, I want to prioritize learning more about Docker and containerizing my applications.",
+    "created_at": "2024-08-12T10:45:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Morning Todos",
+    "content": "I plan to start my day with some exercise, then work on my React components.",
+    "created_at": "2024-08-11T07:30:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Evening Todos",
+    "content": "Tonight, I will finish reading an article on microservices and experiment with a small project.",
+    "created_at": "2024-08-10T18:00:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Monday Goals",
+    "content": "My goal is to complete a code review and prepare a presentation on web accessibility.",
+    "created_at": "2024-08-09T11:15:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Midweek Todos",
+    "content": "I plan to focus on improving my understanding of performance optimization in web apps.",
+    "created_at": "2024-08-08T09:25:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Project Management",
+    "content": "I need to review my team's work and provide feedback on our latest project.",
+    "created_at": "2024-08-07T14:50:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Friday Tasks",
+    "content": "Wrap up the week by finishing documentation and deploying the latest build.",
+    "created_at": "2024-08-06T16:05:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Daily Routine",
+    "content": "Today, I want to practice coding algorithms and review pull requests.",
+    "created_at": "2024-08-05T08:40:00Z"
+  },
+  {
+    "id": 12,
+    "title": "API Work",
+    "content": "I plan to work on creating a new API for fetching user data efficiently.",
+    "created_at": "2024-08-04T12:00:00Z"
+  },
+  {
+    "id": 13,
+    "title": "UI Improvements",
+    "content": "Focus on improving the UI of my application with better user interactions.",
+    "created_at": "2024-08-03T09:30:00Z"
+  },
+  {
+    "id": 14,
+    "title": "Saturday Projects",
+    "content": "Work on personal side projects and test out some new frameworks.",
+    "created_at": "2024-08-02T10:10:00Z"
+  },
+  {
+    "id": 15,
+    "title": "Learning Day",
+    "content": "Spend the day learning more about TypeScript and migrating my codebase.",
+    "created_at": "2024-08-01T14:30:00Z"
+  },
+  {
+    "id": 16,
+    "title": "Security Focus",
+    "content": "Focus on improving the security of my web applications, particularly on authentication.",
+    "created_at": "2024-07-31T08:20:00Z"
+  },
+  {
+    "id": 17,
+    "title": "Database Optimization",
+    "content": "Look into optimizing queries for the blog platform I’m building.",
+    "created_at": "2024-07-30T11:50:00Z"
+  },
+  {
+    "id": 18,
+    "title": "CSS Day",
+    "content": "Experiment with new CSS layouts and animations to enhance the website experience.",
+    "created_at": "2024-07-29T07:45:00Z"
+  },
+  {
+    "id": 19,
+    "title": "Mobile Optimization",
+    "content": "Work on making the website fully responsive for mobile users.",
+    "created_at": "2024-07-28T09:35:00Z"
+  },
+  {
+    "id": 20,
+    "title": "Backend Improvements",
+    "content": "Today, I want to refactor some backend logic for better efficiency.",
+    "created_at": "2024-07-27T16:15:00Z"
+  },
+  {
+    "id": 21,
+    "title": "Collaboration",
+    "content": "I plan to collaborate with my team on our new feature implementation.",
+    "created_at": "2024-07-26T13:00:00Z"
+  },
+  {
+    "id": 22,
+    "title": "Unit Testing",
+    "content": "Spend time writing unit tests for the new code that I just implemented.",
+    "created_at": "2024-07-25T10:00:00Z"
+  },
+  {
+    "id": 23,
+    "title": "Deployment Tasks",
+    "content": "Deploy the new version of our application and monitor for any issues.",
+    "created_at": "2024-07-24T18:50:00Z"
+  },
+  {
+    "id": 24,
+    "title": "Client Meeting",
+    "content": "Prepare for a meeting with a client to discuss project progress.",
+    "created_at": "2024-07-23T09:40:00Z"
+  },
+  {
+    "id": 25,
+    "title": "Feedback Review",
+    "content": "Go through feedback from users and plan improvements for the next version.",
+    "created_at": "2024-07-22T14:20:00Z"
+  },
+  {
+    "id": 26,
+    "title": "New Features",
+    "content": "Start implementing the new features that we discussed in our last team meeting.",
+    "created_at": "2024-07-21T12:35:00Z"
+  },
+  {
+    "id": 27,
+    "title": "Code Refactoring",
+    "content": "Refactor some of the older code for better readability and maintainability.",
+    "created_at": "2024-07-20T08:15:00Z"
+  },
+  {
+    "id": 28,
+    "title": "UI Design",
+    "content": "Focus on the UI design aspects of our project and improve user engagement.",
+    "created_at": "2024-07-19T15:00:00Z"
+  },
+  {
+    "id": 29,
+    "title": "Docker Setup",
+    "content": "Set up Docker for easier development and deployment workflows.",
+    "created_at": "2024-07-18T11:25:00Z"
+  },
+  {
+    "id": 30,
+    "title": "Algorithm Practice",
+    "content": "Practice coding algorithms and participate in a coding challenge.",
+    "created_at": "2024-07-17T09:15:00Z"
+  },
+  {
+    "id": 31,
+    "title": "Cloud Infrastructure",
+    "content": "Focus on setting up cloud infrastructure for our upcoming project.",
+    "created_at": "2024-07-16T07:40:00Z"
+  },
+  {
+    "id": 32,
+    "title": "Documentation",
+    "content": "Write documentation for the new microservices that were added to the system.",
+    "created_at": "2024-07-15T08:50:00Z"
+  },
+  {
+    "id": 33,
+    "title": "Testing Day",
+    "content": "Focus on testing different parts of our system and fixing any issues.",
+    "created_at": "2024-07-14T12:05:00Z"
+  },
+  {
+    "id": 34,
+    "title": "Backend Refactoring",
+    "content": "Refactor the backend to make it more scalable and easier to maintain.",
+    "created_at": "2024-07-13T16:30:00Z"
+  },
+  {
+    "id": 35,
+    "title": "Frontend Tweaks",
+    "content": "Make some small tweaks to the frontend for better performance.",
+    "created_at": "2024-07-12T10:55:00Z"
+  },
+  {
+    "id": 36,
+    "title": "SEO Improvements",
+    "content": "Focus on improving the SEO for our website to increase visibility.",
+    "created_at": "2024-07-11T09:20:00Z"
+  },
+  {
+    "id": 37,
+    "title": "Database Design",
+    "content": "Plan and implement the database design for our new feature.",
+    "created_at": "2024-07-10T07:30:00Z"
+  },
+  {
+    "id": 38,
+    "title": "Microservices Setup",
+    "content": "Set up microservices for better modularity and separation of concerns.",
+    "created_at": "2024-07-09T08:20:00Z"
+  },
+  {
+    "id": 39,
+    "title": "Code Reviews",
+    "content": "Spend time reviewing code submitted by my team and provide feedback.",
+    "created_at": "2024-07-08T13:45:00Z"
+  },
+  {
+    "id": 40,
+    "title": "Bug Fixes",
+    "content": "Focus on fixing bugs reported by users and improving stability.",
+    "created_at": "2024-07-07T11:00:00Z"
+  },
+  {
+    "id": 41,
+    "title": "Feature Discussion",
+    "content": "Have a team discussion about the next big feature for our product.",
+    "created_at": "2024-07-06T10:25:00Z"
+  },
+  {
+    "id": 42,
+    "title": "DevOps Tasks",
+    "content": "Set up the CI/CD pipeline for continuous integration and deployment.",
+    "created_at": "2024-07-05T07:50:00Z"
+  },
+  {
+    "id": 43,
+    "title": "Client Feedback",
+    "content": "Review feedback from clients and decide on the next action items.",
+    "created_at": "2024-07-04T12:15:00Z"
+  },
+  {
+    "id": 44,
+    "title": "Backend Improvements",
+    "content": "Work on scaling the backend for our application to handle more traffic.",
+    "created_at": "2024-07-03T14:30:00Z"
+  },
+  {
+    "id": 45,
+    "title": "Database Migrations",
+    "content": "Plan and execute database migrations for the new version of our app.",
+    "created_at": "2024-07-02T08:35:00Z"
+  },
+  {
+    "id": 46,
+    "title": "New API",
+    "content": "Design and implement a new API for handling user requests.",
+    "created_at": "2024-07-01T10:40:00Z"
+  },
+  {
+    "id": 47,
+    "title": "Code Cleanup",
+    "content": "Spend time cleaning up old code and removing unused libraries.",
+    "created_at": "2024-06-30T16:25:00Z"
+  },
+  {
+    "id": 48,
+    "title": "Learning Session",
+    "content": "Attend a learning session on improving performance in web applications.",
+    "created_at": "2024-06-29T09:45:00Z"
+  },
+  {
+    "id": 49,
+    "title": "Feature Rollout",
+    "content": "Plan the rollout of a new feature to our users and monitor its success.",
+    "created_at": "2024-06-28T07:50:00Z"
+  },
+  {
+    "id": 50,
+    "title": "Team Collaboration",
+    "content": "Collaborate with my team to brainstorm ideas for our next release.",
+    "created_at": "2024-06-27T11:15:00Z"
+  },
+  {
+    "id": 51,
+    "title": "Refactoring Tasks",
+    "content": "Today is all about refactoring legacy code for better readability.",
+    "created_at": "2024-08-14T08:00:00Z"
+  },
+  {
+    "id": 52,
+    "title": "Learning Redux",
+    "content": "I plan to learn Redux for state management in large applications.",
+    "created_at": "2024-08-13T11:45:00Z"
+  },
+  {
+    "id": 53,
+    "title": "Debugging Challenges",
+    "content": "Had some tough challenges debugging asynchronous calls today.",
+    "created_at": "2024-08-12T14:10:00Z"
+  },
+  {
+    "id": 54,
+    "title": "React Hooks Deep Dive",
+    "content": "Exploring React hooks today, specifically useEffect and custom hooks.",
+    "created_at": "2024-08-11T09:25:00Z"
+  },
+  {
+    "id": 55,
+    "title": "Optimizing Performance",
+    "content": "Today's goal is to optimize the performance of my React app.",
+    "created_at": "2024-08-10T15:30:00Z"
+  },
+  {
+    "id": 56,
+    "title": "Working with APIs",
+    "content": "Spent time working with REST APIs, improving error handling.",
+    "created_at": "2024-08-09T10:15:00Z"
+  },
+  {
+    "id": 57,
+    "title": "Code Review Day",
+    "content": "Today's focus is on reviewing code and suggesting improvements.",
+    "created_at": "2024-08-08T14:50:00Z"
+  },
+  {
+    "id": 58,
+    "title": "Writing Tests",
+    "content": "Writing tests to cover edge cases in my application.",
+    "created_at": "2024-08-07T13:05:00Z"
+  }
+]
