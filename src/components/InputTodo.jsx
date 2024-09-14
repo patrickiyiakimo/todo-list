@@ -27,11 +27,11 @@ const InputTodo = () => {
       <h1 className="text-center text-3xl md:text-6xl font-bold my-20">
         Get Started
       </h1>
-      <div className="whitespace-nowrap">
+      <div className="whitespace-nowrap sm:ml-20 md:mr-96">
         <input
           type="text"
           placeholder="add todo here..."
-          className="pl-4 ml-10 md:w-3/6 md:ml-72 py-4 text-white border-2 bg-black"
+          className="pl-4 ml-10 sm:w-72 md:w-3/6 md:ml-72 py-4 text-white border-2 bg-black"
           value={description}
           onChange={(e) => setDescription(e.target.value)}
         />

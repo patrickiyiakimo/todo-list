@@ -53,7 +53,7 @@ const BlogsTodos = () => {
           className="block mx-auto p-5 mb-5 border-2"
         />
       </div>
-      <div className="grid grid-cols-2 md:grid-cols-3 m-20 shadow-2xl p-20">
+      <div className="grid grid-cols-1 md:grid-cols-3 m-5 shadow-2xl p-10 ">
         {currentBlogs.map((blog) => (
           <div key={blog.id} className="my-5 p-5 border-b-2">
             <h2 className="text-2xl font-semibold">{blog.title}</h2>
