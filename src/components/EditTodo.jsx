@@ -18,7 +18,7 @@ const EditTodo = ({ todo, onSave, onClose }) => {
       onClick={onClose}
     >
       <div
-        className="bg-white text-black p-6 rounded w-96"
+        className="bg-white p-6 rounded w-96"
         onClick={(e) => e.stopPropagation()}
       >
         <h2 className="text-xl mb-4">Edit Todo</h2>

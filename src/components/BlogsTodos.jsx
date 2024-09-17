@@ -40,7 +40,7 @@ const BlogsTodos = () => {
   const paginate = (pageNumber) => setCurrentPage(pageNumber);
 
   return (
-    <div className="font-mont text-gray-800">
+    <div className="font-mont">
       <div>
         <h1 className="text-3xl my-20 md:text-6xl text-center font-bold">
           Check Out Our Latest Blogs
@@ -57,8 +57,8 @@ const BlogsTodos = () => {
         {currentBlogs.map((blog) => (
           <div key={blog.id} className="my-5 p-5 border-b-2">
             <h2 className="text-2xl font-semibold">{blog.title}</h2>
-            <p className="text-gray-600">{blog.content}</p>
-            <p className="text-sm text-gray-500">
+            <p className="">{blog.content}</p>
+            <p className="text-sm ">
               Published on: {new Date(blog.created_at).toLocaleDateString()}
             </p>
           </div>
@@ -74,7 +74,7 @@ const BlogsTodos = () => {
               onClick={() => paginate(index + 1)}
               className={`px-3 py-1 border ${
                 currentPage === index + 1
-                  ? "bg-gray-800 text-white"
+                  ? "bg-gray-800 "
                   : "bg-white text-gray-800"
               }`}
             >
